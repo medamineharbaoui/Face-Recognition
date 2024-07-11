@@ -15,9 +15,7 @@ scikit-learn
 ```
 ## Execution
 
-To run this project, you can clone this repository to your local machine using the following command:
-```
-git clone https://github.com/verus56/face-recognition-based-sur-mtcnn-facenet.git
+To run this project, you can clone this repository to your local machine.
 ```
 Once cloned, you can run the main file main.py using the following command:
 ```
@@ -35,11 +33,10 @@ When an image is submitted for face recognition, the same face detection and enc
 
 This project shows you how to use the MTCNN and Facenet libraries to develop a simple face recognition application. You can use this code as a base to build a more complex application or adapt it to your needs.
 
-## Resources
-
-#### Report: 
-
-#### Presentation: 
+# by
+Mohamed Amine Harbaoui
+Oussama Bersellou
+Ahmed Amine Barkallah
 
 
 #### by: 
